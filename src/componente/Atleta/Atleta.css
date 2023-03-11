@@ -1,0 +1,37 @@
+.atleta {
+    width: 280px;
+}
+
+.atleta .cabecalho {
+    background-color:  #000000;
+    border-radius: 10px 10px 0px 0px;
+}
+.atleta img {
+    width: 160px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+
+.atleta .rodape {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.atleta .rodape h4 {
+    color: #000000;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.atleta .rodape h5 {
+    font-size: 18px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0 16px;
+}
